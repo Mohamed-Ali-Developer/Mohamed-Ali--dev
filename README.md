@@ -1,218 +1,128 @@
-<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 12_03_30 PM" src="https://github.com/user-attachments/assets/b7a103a1-ae00-4e8f-ac52-014d16fc9eee" />
+<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 12_03_30 PM" src="![Uploading Laravel.png…]()
+" />
 
 
+# Mohamed Ali
 
-## Current Projects
+## Computer Science Student | Laravel Backend Developer
 
-Amazon Product Scraper
+Computer Science student focused on Backend Development with Laravel and building RESTful APIs.
 
-A Playwright-based scraping project that searches Amazon products and extracts structured product information, including titles, prices, ratings, and product links.
-
-Key Features
-
-- Product search automation
-- Data extraction from search results
-- Structured output generation
-- Playwright browser automation
-
-## Example Output
-
-### JSON
-
-```json
-{
-  "itemName": "Laptop Example",
-  "itemPrice": "25000",
-  "itemReviews": "4.5",
-  "reviewNumber": "125",
-  "itemlink": "https://www.amazon.eg/example"
-}
-```
-
-### Excel
-
-| Item Name | Price | Reviews Rating | Review Number | Product Link |
-|------------|---------|----------------|----------------|-------------|
-| Laptop Example | 25000 | 4.5 | 125 | Open Product |
+Interested in developing database-driven web applications, designing backend systems, implementing authentication and authorization, and building reliable APIs that connect applications with relational databases.
 
 ---
 
+## About Me
 
-GitHub Repository: [View Project Repository]( https://github.com/Mohamed-Ali-Auto-dev/Amazon-playwright-scraper)   
-
-bazooka Menu Scraper
-
-A web scraping project designed to collect and organize menu data from the bazooka website.
-
-Key Features
-
-- Menu data extraction
-- Structured data collection
-- Automated navigation
-- Data processing and organization
-
-## Sample Output
-
-```json
-[
-    {
-        "category": "offers",
-        "totalItems": 21,
-        "items": [
-            {
-                "name": "بوكس المونديال1",
-                "image": "https://bazookaegy.com/public/uploads/meals/s_1776593428202336.jpeg",
-                "description": "10قطع فرايد تشكن+3عيش",
-                "hasMultiplePrices": false,
-                "price": "400.00 جنيه",
-                "oldPrice": "800.00 جنيه",
-                "prices": null
-            },
-            {
-                "name": "تشيكن باربيكيو",
-                "image": "https://bazookaegy.com/public/uploads/meals/s_1738168187193737.jpg",
-                "description": "صدور الدجاج الكرسبي بصوص البربيكيو ، صوص الجبنه السايحه خس ، طماطم ، خيار مخلل ،حلقات بصل مقليه",
-                "hasMultiplePrices": true,
-                "price": null,
-                "oldPrice": null,
-                "prices": [
-                    {
-                        "kind": "single",
-                        "kindPrice": "155.00 جنيه"
-                    },
-                    {
-                        "kind": "double",
-                        "kindPrice": "215.00 جنيه"
-                    },
-                    {
-                        "kind": "triple",
-                        "kindPrice": "240.00 جنيه"
-                    }
-                ]
-            }
-        ]
-    }
-]
-```
-
-GitHub Repository:   [View Project Repository](https://github.com/Mohamed-Ali-Auto-dev/bazooka-egypt-scraper) 
-
-
-## Hi, I'm Mohamed Ali  
-
-Node.js Developer & Web Scraping Engineer
-
-I build web scraping and browser automation solutions using Node.js and Playwright.
-
-My main focus is extracting, processing, and organizing data from websites through reliable automation workflows.
+* Computer Science Student
+* Laravel Backend Developer
+* Focused on RESTful API Development
+* Experienced with Laravel MVC Architecture
+* Building authentication and authorization systems using Laravel Sanctum
+* Working with MySQL and relational database design
+* Using Eloquent ORM to work with database relationships and queries
+* Building dynamic web applications using Laravel Blade
+* Comfortable with native HTML, CSS, and JavaScript
+* Using Postman for API development and testing
+* Working with Git and GitHub for version control
+* Developing in Linux environments
 
 ---
 
-About Me
+## Technical Skills
 
-- Working with Node.js for automation and scripting
-- Building custom web scrapers using Playwright
-- Extracting structured data from modern websites
-- Handling dynamic content, lazy loading, and complex page interactions
-- Storing and managing scraped data using MySQL
-- Focused on building reliable automation and data extraction solutions.
+### Backend
 
----
+* PHP
+* Laravel
+* Laravel Sanctum
+* RESTful APIs
+* MVC Architecture
+* Eloquent ORM
 
-## Tech Stack
+### Frontend
 
-Programming
+* Laravel Blade
+* HTML5
+* CSS3
+* JavaScript
 
-- JavaScript (ES6+)
-- Node.js
+### Database
 
-Web Scraping & Automation
+* MySQL
+* SQL
+* Database Design
+* Migrations
+* Eloquent Relationships
+* Database Queries
 
-- Playwright
-- Browser Automation
-- Data Extraction
-- Web Crawling
-- DOM Traversal
-- Pagination Handling
-- Infinite Scroll & Lazy Loading
+### Tools
 
-Database
-
-- MySQL
-
-Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
+* Git
+* GitHub
+* VS Code
+* Postman
+* Linux
 
 ---
 
-## Automation
+## Backend Development
 
-- Form automation
-- Browser task automation
-- Data gathering scripts
-- Repetitive workflow automation
+### RESTful APIs
 
-## Services
+* Designing and implementing REST API endpoints
+* Request validation and data handling
+* Authentication and authorization
+* API responses and error handling
+* Working with JSON data
+* Connecting APIs with relational databases
 
-### Web Scraping Solutions
+### Laravel Development
 
-* Extract structured data from e-commerce, job boards, directories, and business websites
-* Collect product details, pricing, ratings, reviews, and contact information
-* Handle pagination, infinite scrolling, and lazy-loaded content
+* Building MVC-based applications
+* CRUD operations
+* Authentication systems
+* Form validation
+* Routing and middleware
+* Blade views
+* Eloquent ORM and relationships
+* Database migrations and seeders
 
-### Browser Automation
+### Database Design & Integration
 
-* Automate repetitive browser tasks and workflows
-* Automate form submissions, data entry, and account-based processes
-* Build custom automation scripts using Playwright
+* Designing relational database schemas based on application requirements
+* Modeling relationships between application entities
+* Implementing One-to-One, One-to-Many, and Many-to-Many relationships
+* Using pivot tables for many-to-many relationships
+* Managing database structure with Laravel migrations
+* Querying and retrieving data using Eloquent ORM and SQL
 
-### Data Collection & Processing
+---
 
-* Gather data from multiple sources
-* Clean, organize, and structure extracted data
-* Export results to JSON, CSV, Excel, or databases
+## Currently Learning
 
-### Custom Scraping Projects
+* Advanced Laravel Development
+* REST API Architecture
+* Backend Architecture
+* Database Optimization
+* Clean and Maintainable Code
+* Building Real-World Backend Systems
 
-* Tailored scraping solutions for unique business requirements
-* Dynamic website scraping and JavaScript-rendered content extraction
-* Reliable and scalable automation workflows
+---
 
-### Playwright Development
+## Projects
 
-* End-to-end browser automation
-* Advanced element interaction and navigation handling
-* Error handling, retries, and performance optimization
+<!-- Add project links here -->
 
-
-## How I Can Help
-
-✔ Extract data from websites at scale
-
-✔ Build custom web scraping solutions
-
-✔ Automate repetitive browser tasks
-
-✔ Collect and organize business-critical data
-
-✔ Scrape dynamic websites powered by JavaScript
-
-✔ Deliver clean, structured datasets (JSON, CSV, Excel)
-
-✔ Develop reliable Playwright automation tools
-
-✔ Handle pagination, lazy loading, authentication, and complex user interactions
-
-
+---
 
 ## Contact
 
-GitHub:https://github.com/Mohamed-Ali-Auto-dev
+GitHub:
+https://github.com/MohamedAliDev
 
-LinkedIn:https://www.linkedin.com/in/mohamed-ali-a8ab70415
+LinkedIn:
+https://www.linkedin.com/in/mohamed-ali-a8ab70415
 
-Email:mohamedaliawad44887@gmail.com 
+Email:
+[mohamedaliawad44887@gmail.com](mailto:mohamedaliawad44887@gmail.com)
