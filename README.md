@@ -1,5 +1,5 @@
-<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 12_03_30 PM" src="![Uploading Laravel.png…]()
-" />
+![Uploading Laravel.png…]()
+
 
 
 # Mohamed Ali
